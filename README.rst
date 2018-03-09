@@ -3,9 +3,13 @@ TechTask Install
 
 1. Install vendors:
 
+.. code-block:: console
+
     $ composer install
 
 2. API is ready to go. Start PHP's built-in server:
+
+.. code-block:: console
 
     $ cd web/
     $ php -S localhost:8888
